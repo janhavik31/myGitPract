@@ -1,4 +1,4 @@
-to connect local work to remote :
+To connect local work to remote :
 make repository on Github copy the url
 git remote add origin "url"
 git branch -M main 
