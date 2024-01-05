@@ -1,3 +1,4 @@
 branching and merging 
 git branch <name of branch>
 git checkout <name of branch> (to switch)
+git merge <name of branch>
