@@ -1,0 +1,3 @@
+Forking - 
+it's different from clone 
+it's copying the original and gitting it in our repository.
