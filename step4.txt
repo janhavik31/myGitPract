@@ -1,3 +1,6 @@
 Forking - 
 it's different from clone 
-it's copying the original and gitting it in our repository.
+it's copying the original and getting it in our repository.
+
+Pull Requests -
+Requests to merge changes from copied/Forked branch into original, often for code review and integration before merging.
